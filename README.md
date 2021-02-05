@@ -1,8 +1,8 @@
 ## Hi I'm [Gautam Thapa!](https://gautamthapa.com) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 🔭 I’m currently working on [I-MADE](https://www.i-made.in/).
-- 🌱 I’m currently learning Data Structure
-- 😄 Pronouns: He/His
+- 🌱 I’m currently learning Data Structure.
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 **Languages and Tools:**  

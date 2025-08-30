@@ -25,7 +25,15 @@ What excites me most?
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Core Skills  
+
+Java ☕ • Spring Boot • Spring AI • Microservices • AWS ☁️ • Apache Kafka • Kubernetes • PostgreSQL • System Design • DSA • AI Integration  
+
+---
+
+## 🛠️ Full Tech Stack  
+<details>
+<summary>Click to expand</summary>
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
@@ -61,7 +69,6 @@ What excites me most?
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)  
 
 **AI, ML & Analytics**  
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?logo=spring&logoColor=white) 
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1B1B1B?logo=java&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
@@ -74,7 +81,9 @@ What excites me most?
 ![DSA](https://img.shields.io/badge/DSA-000000?logo=leetcode&logoColor=yellow) 
 ![Agile](https://img.shields.io/badge/Agile-2496ED?logo=scrumalliance&logoColor=white) 
 ![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-0A66C2) 
-![System Design](https://img.shields.io/badge/System%20Design-000000)
+![System Design](https://img.shields.io/badge/System%20Design-000000)  
+
+</details>
 
 ---
 

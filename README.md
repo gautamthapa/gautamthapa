@@ -105,10 +105,13 @@ I work with **startups, scale-ups & enterprises** to:
 ---
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-Gautam%20Thapa-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/gautamthapa/) 
-[![Twitter](https://img.shields.io/badge/-@gautamthapaoffl-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/gautamthapaoffl)
-[![Gmail](https://img.shields.io/badge/-gautam.thapa22@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:gautam.thapa22@gmail.com) 
 [![Website](https://img.shields.io/badge/-gautamthapa.com-000000?logo=about.me&logoColor=white&style=flat)](https://www.gautamthapa.com)
+[![LinkedIn](https://img.shields.io/badge/-Gautam%20Thapa-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/gautamthapa/)
+[![X](https://img.shields.io/badge/-@gautamthapaHQ-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/gautamthapaHQ)
+[![Medium](https://img.shields.io/badge/-@gautam_thapa-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@gautam_thapa)
+[![Instagram](https://img.shields.io/badge/-@gautamthapaHQ-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/gautamthapaHQ)
+[![Reddit](https://img.shields.io/badge/-u%2FgautamthapaHQ-FF4500?logo=reddit&logoColor=white&style=flat)](https://www.reddit.com/user/gautamthapaHQ)
+[![Gmail](https://img.shields.io/badge/-gautam.thapa22@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:gautam.thapa22@gmail.com)
 
 ---
 

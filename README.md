@@ -81,4 +81,8 @@ I work with **startups, scale-ups & enterprises** to:
 
 ---
 
-⭐ *“☕ + 💻 = scalable systems. That’s been my formula for 7+ years — now I help teams worldwide do the same.”*  
+⭐ *"☕ + 💻 = scalable systems. That's been my formula for 7+ years — now I help teams worldwide do the same."*
+
+---
+
+<!-- Development Branch: claude/dev-011CUrtEdpFtPBodbqo14LSp -->  

@@ -31,20 +31,30 @@ Java ☕ • Spring Boot • Microservices • AWS ☁️ • Apache Kafka • K
 ---
 
 ## 🛠️ Tech Stack (Highlights)  
+
 <details>
-<summary>Click to expand full list</summary>
+<summary>Click to expand full stack</summary>
 
-**Languages & Frameworks**  
-Java, Spring Boot, Spring Cloud, Spring AI, MyBatis, TypeScript, Next.js, Node.js  
+### Languages & Backend
+Java (8/11/17/21), Spring Boot, Spring Security, Hibernate / JPA, MyBatis, REST APIs, Microservices Architecture, Node.js
 
-**Cloud & DevOps**  
-AWS, GCP, Azure, Docker, Kubernetes, Terraform, GitLab CI, Jenkins, Kafka, RabbitMQ  
+### Distributed Systems & Messaging
+Apache Kafka, Event-Driven Architecture, Saga Pattern, CQRS, Asynchronous Processing, RabbitMQ
 
-**Databases & Search**  
-PostgreSQL, MySQL, MongoDB, Oracle, Redis, Elasticsearch, Firebird  
+### Databases & Caching
+MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, Query Optimization, Database Indexing, Firebird
 
-**AI, ML & Analytics**  
-LangChain4j, OpenAI, TensorFlow, Pandas, NumPy  
+### Cloud & DevOps
+AWS (EC2, S3, RDS, CloudWatch, SQS), Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform
+
+### Observability & Quality
+Prometheus, Grafana, ELK Stack, SonarQube, Logging & Monitoring
+
+### Frontend & Web
+TypeScript, Angular, Next.js, JSP, HTML, CSS, JavaScript
+
+### AI & Automation
+Spring AI, LangChain4j, OpenAI Integration, AI Automation, Forecasting Systems
 
 </details>
 

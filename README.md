@@ -48,14 +48,6 @@ LangChain4j, OpenAI, TensorFlow, Pandas, NumPy
 
 </details>
 
----
-
-## 📈 GitHub Stats  
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamthapa&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamthapa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
 ## 💼 How I Can Help You  
 I work with **startups, scale-ups & enterprises** to:  
 - 🚀 Architect & scale **backend systems** (Java, Spring Boot, microservices)  

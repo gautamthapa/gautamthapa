@@ -1,13 +1,13 @@
 # 👋 Hi, I'm [Gautam Thapa](https://www.gautamthapa.com)  
 
-☕ **Tech Lead & Backend Architect**  
-I turn **Java into scalable microservices + AI systems** 🤖  
+☕ **Technical Lead | Senior Backend Engineer**  
+Building scalable backend systems with Java, Kafka, Spring Boot, and cloud-native architectures. 🤖  
 Passionate about **system design, cloud-native apps, and mentoring devs** 🚀  
 
 ---
 
 ## 🌟 About Me  
-I’ve spent the last **7+ years** building and scaling backend systems in **fintech, eCommerce, inventory, and education**, handling millions of users & transactions.  
+I’ve spent the last **7+ years** building and scaling backend systems in **fintech, eCommerce, inventory, and education**, handling high-volume transactional systems.  
 
 What excites me most?  
 - ⚡ Turning **complex problems** into simple, scalable architectures  
@@ -20,8 +20,7 @@ What excites me most?
 ## 🚀 What I’m Working On  
 - 🛠️ Technical Lead at [CFOMantra](https://www.cfomantra.com) → fintech & inventory forecasting platform  
 - 🌱 Learning **advanced distributed systems** & high-performance design patterns  
-- 🎯 Exploring **Kubernetes, serverless, and AI-powered automation**  
-- 🤝 Open to **consulting, mentoring & collaborations worldwide**  
+- 🎯 Exploring **Kubernetes, serverless, and AI-powered automation** 
 
 ---
 
@@ -73,11 +72,7 @@ I work with **startups, scale-ups & enterprises** to:
 [![Website](https://img.shields.io/badge/-gautamthapa.com-000000?logo=about.me&logoColor=white&style=flat)](https://www.gautamthapa.com)  
 [![LinkedIn](https://img.shields.io/badge/-Gautam%20Thapa-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/gautamthapa/)  
 [![X](https://img.shields.io/badge/-@gautamthapaHQ-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/gautamthapaHQ)  
-[![Medium](https://img.shields.io/badge/-@gautam.thapa-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@gautam.thapa)  
-[![Instagram](https://img.shields.io/badge/-@gautamthapaHQ-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/gautamthapaHQ)  
-[![Reddit](https://img.shields.io/badge/-u%2FgautamthapaHQ-FF4500?logo=reddit&logoColor=white&style=flat)](https://www.reddit.com/user/gautamthapaHQ)  
-[![Gmail](https://img.shields.io/badge/-hello@gautamthapa.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:hello@gautamthapa.com)  
-[![Calendly](https://img.shields.io/badge/-Book%20a%20Call-0069ff?logo=googlecalendar&logoColor=white&style=flat)](https://calendly.com/gautam-thapa)  
+[![Medium](https://img.shields.io/badge/-@gautam.thapa-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@gautam.thapa)
 
 ---
 
